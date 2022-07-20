@@ -12,16 +12,16 @@ As customers shop for a car insurance policy, they visit websites of multiple in
 
 1. Documentation:
 * [Presentation](Capstone_project_presentation_amit_kukreja_final.pdf)
-* [Project Report](Capstone project_report_amit_kukreja.pdf)
-* [Metrics and Parameters](Capstone project_model metrics files.pdf)
+* [Project Report](Capstone_project_report_amit_kukreja.pdf)
+* [Metrics and Parameters](Capstone_project_model_metrics_file.pdf)
 
-2. Notebooks
-* [Data Wrangling](Notebooks/02_Amit Kukreja_Capstone 1_Allstate Insurance_data wrangling_notebook_final.ipynb)
-* [Exploratory Data Analysis](Notebooks/03_EDA Stage_Capstone Project_Amit_Kukreja_final.ipynb)
+2. Notebooks:
+* [Data Wrangling](Notebooks/02_capstone_project_data_wrangling_notebook_final_amit_kukreja.ipynb)
+* [Exploratory Data Analysis](Notebooks/03_EDA_Stage_Capstone_Project_Amit_Kukreja_final.ipynb)
 * [Pre-Processing](Notebooks/04_Pre_processing_and_training_data_development-final.ipynb)
 * [Modeling](Notebooks/05_Modelling_final.ipynb)
 
-3. Data Files
+3. Data Files:
 * [Original data from All State](Raw_data/train.csv)
 * [Data - wide form](WIP_data/df_horizontal_expand_ver3.csv)
 * [Training data - scaled and transformed](Transformed_data/pre_processed_training_data_with_quotes_1_2.csv)
